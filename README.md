@@ -1,2 +1,1 @@
-Joshua Kim
-sjoshuakim
+Joshua Kim sjoshuakim
